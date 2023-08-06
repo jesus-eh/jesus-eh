@@ -2,7 +2,7 @@
 - 
 - Python Developer 
 - Robotics
-- 
+- My programming languages: Pyrhon, Java, Swift, C++, JavaScript 
 
 <!---
 jesus-eh/jesus-eh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
