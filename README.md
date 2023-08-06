@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jesus-eh
-- 👀 
-- 🌱 I’m currently 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m @jesus-eh
+- 
+- I’m currently 
+- I’m looking to collaborate on ...
+- How to reach me ...
 
 <!---
 jesus-eh/jesus-eh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
