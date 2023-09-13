@@ -1,5 +1,5 @@
 - Hi, I’m @jesus-eh
-- 
+- ML & IA Developer
 - Python Developer 
 - Robotics
 - My programming languages: Pyrhon, Java, Swift, C++
