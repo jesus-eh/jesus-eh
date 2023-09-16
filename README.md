@@ -2,7 +2,7 @@
 - ML & IA Developer
 - Python Developer 
 - Robotics
-- My programming languages: Pyrhon, Java, Swift, C++
+- My programming languages: Python, Java, Swift, C++
 
 <!---
 jesus-eh/jesus-eh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
