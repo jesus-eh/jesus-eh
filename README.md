@@ -1,6 +1,7 @@
-- Hi, I’m @jesus-eh
+- I’m @jesus-eh
 - ML & IA Developer
-- Python Developer 
+- Python Developer
+- Hacking
 - Robotics
 - My programming languages: Python, Java, Swift, C++
 
