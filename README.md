@@ -3,7 +3,7 @@
 - Python Developer
 - Hacking
 - Robotics
-- My programming languages: Python, Java, Swift, C++
+- My programming languages: Python, Java, c#
 
 <!---
 jesus-eh/jesus-eh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
