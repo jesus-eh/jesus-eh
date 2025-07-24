@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy Jesús Escaño Herrero
 
-### 🎯 Científico de Datos en formación | Apasionado por la Ciberseguridad Ofensiva | Enfocado en Defensa y Aeroespacial
+### 🎯 Científico de Datos en formación | Apasionado por la Ciberseguridad Ofensiva
 
 
 ## 🧠 Sobre mí
@@ -13,7 +13,7 @@ Soy un desarrollador con una gran pasión por la **inteligencia artificial** y *
 
 ## 📊 Estadísticas de GitHub
 
-![Jesús's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesus-eh&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesus-eh&layout=compact&theme=dark)
+![Jesús's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesus-eh&show_icons=true&theme=dark)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesus-eh&layout=compact&theme=dark)
 
 
 
