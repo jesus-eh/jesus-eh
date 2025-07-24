@@ -13,7 +13,7 @@ Soy un desarrollador con una gran pasión por la **inteligencia artificial** y *
 
 ## 📊 Estadísticas de GitHub
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jesus-eh&theme=python-dark&hide_border=true&locale=es)](https://git.io/streak-stats)
+![Jesús's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesus-eh&show_icons=true&theme=dark)
 
 ---
 
