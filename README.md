@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/jesus-eh/jesus-eh/main/banner.png)
+![Logo](banner.png)
 
 # 👋 ¡Hola! Soy Jesús Escaño Herrero
 
