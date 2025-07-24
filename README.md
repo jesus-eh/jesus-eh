@@ -11,7 +11,7 @@ Soy un desarrollador con una gran pasión por la **inteligencia artificial** y *
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Estadísticas de Lenguajes usado en mis proyectos
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesus-eh&layout=compact&theme=dark)
 
