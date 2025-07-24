@@ -9,8 +9,6 @@
 
 Soy un desarrollador con una gran pasión por la **inteligencia artificial** y **Big Data (Data Science)** y la **seguridad ofensiva**. Enfocado en crecer profesionalmente en **Data Science** y con interés por la **ciberseguridad ofensiva**, con el objetivo claro de aplicar mis conocimientos en los sectores de **Defensa** y **Aeroespacial**.
 
-Me gusta analizar, construir, automatizar y romper sistemas para entenderlos mejor. Aprendo cada día con el objetivo de aportar soluciones inteligentes, eficientes y seguras.
-
 ---
 
 ## 📊 Estadísticas de GitHub
