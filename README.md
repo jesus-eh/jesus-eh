@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy Jesús Escaño Herrero
 
-### 🎯 Científico de Datos en formación | Apasionado por la Ciberseguridad Ofensiva
+### 🎯 Data Science & Cybersecurity Enthusiast
 
 
 ## 🧠 Sobre mí
