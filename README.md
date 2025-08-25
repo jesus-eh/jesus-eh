@@ -1,4 +1,4 @@
-![Logo](banner.png)
+![Logo]({Software Developer}.png)
 
 # 👋 ¡Hola! Soy Jesús Escaño Herrero
 
