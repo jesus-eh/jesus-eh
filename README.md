@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy Jesús Escaño Herrero
 
-### 🎯 Data Science & Cybersecurity Enthusiast
+### 🎯 Software Developer | Data Science & Cybersecurity Enthusiast
 
 
 ## 🧠 Sobre mí
