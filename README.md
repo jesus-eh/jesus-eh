@@ -29,7 +29,9 @@ Soy un desarrollador recién graduado en Desarrollo de Aplicaciones Multiplatafo
 
 - **Data Science**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **IA/ML**: TensorFlow, PyTorch
-- **Dev Tools**: Git, GitHub, VSCode, Linux
+- **Dev Tools**: Git, GitHub, VSCode
+- **Cibersecurity**: Nmap, Metasploit, Burp Suit (Basico)
+- ** Operative Sistem**: Linux, Windows, MacOS, Kali Linux, Parrot OS
 
 ---
 
