@@ -1,4 +1,4 @@
-![Logo](banner.png)
+![Logo](banne.png)
 
 # 👋 ¡Hola! Soy Jesús Escaño Herrero
 
