@@ -7,7 +7,7 @@
 
 ## 🧠 Sobre mí
 
-Soy un desarrollador recién graduado en Desarrollo de Aplicaciones Multiplataforma con una gran pasión por la **inteligencia artificial** y **Big Data (Data Science)** y la **seguridad ofensiva**. Enfocado en crecer profesionalmente en **ciberseguridad ofensiva** y complementarlo con **Data Science** para potenciar sus aplicaciones en la **ciberseguridad** y en **diversos sectores**, con el objetivo claro de aplicar mis conocimientos en los sectores de **Defensa** y **Aeroespacial**.
+Soy un desarrollador recién graduado en Desarrollo de Aplicaciones Multiplataforma con una gran pasión por la **seguridad ofensiva (Red Team)** e **Inteligencia Artificial y Big Data (data science)**.  Enfocado en crecer profesionalmente en **ciberseguridad ofensiva** y complementarlo con **Data Science** para potenciar sus aplicaciones en la **ciberseguridad** y en **diversos sectores**, con el objetivo claro de aplicar mis conocimientos en los sectores de **Defensa** y **Aeroespacial**.
 
 ---
 
