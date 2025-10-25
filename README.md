@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy Jesús Escaño Herrero
 
-### 🎯 Software Developer | Data Science & Cybersecurity Enthusiast
+### 🎯 Software Developer | Cybersecurity & Data Science Enthusiast
 
 
 ## 🧠 Sobre mí
@@ -27,21 +27,22 @@ Soy un desarrollador recién graduado en Desarrollo de Aplicaciones Multiplatafo
 
 ### 🧰 Herramientas y Frameworks
 
+- **Cybersecurity**: Nmap, Metasploit, Burp Suit (Basico)
 - **Data Science**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **IA/ML**: TensorFlow, PyTorch
 - **Dev Tools**: Git, GitHub, VSCode
-- **Cybersecurity**: Nmap, Metasploit, Burp Suit (Basico)
 - **Operating System**: Linux, Windows, MacOS, Kali Linux, Parrot OS
 
 ---
 
 ## 🚀 Áreas que me apasionan
 
+- 🛡️ Seguridad Ofensiva (Red Team / Purple Team)
+- ✈️ Defensa y Aeroespacial
+- 🤖 Robótica & Automatización  
 - 📊 Data Science & Machine Learning  
 - 🧠 Inteligencia Artificial  
-- 🛡️ Seguridad Ofensiva (Red Team / Purple Team)  
-- 🤖 Robótica & Automatización  
-- ✈️ Defensa y Aeroespacial
+
 
 ---
 
