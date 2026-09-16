@@ -22,7 +22,7 @@ Soy un desarrollador recién graduado en Desarrollo de Aplicaciones Multiplatafo
 | Lenguaje      | Nivel           |
 |---------------|-----------------|
 | Python 🐍     | Intermedio      |
-| Java ☕        | Intermedio      |
+| Flutter 💙    | Intermedio      |
 | C# ⚙️         | Intermedio      |
 
 ### 🧰 Herramientas y Frameworks
