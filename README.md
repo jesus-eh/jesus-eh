@@ -9,8 +9,6 @@
 
 ## 🧠 About me
 
-I'm a Software Developer & Cybersecurity Specialist
-
 Junior Software Developer with a background in **Multiplatform Application Development**, focused on **Offensive Security (Red Team)**, **Artificial Intelligence**, and **Data Science**. 
 
 Passionate about combining cybersecurity techniques with data-driven models, with a goal of applying these capabilities within the **Defense and Aerospace sectors**.
