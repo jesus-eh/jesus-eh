@@ -9,7 +9,7 @@
 
 ## 🧠 About me
 
-# 👨‍💻 Hi, I'm a Software Developer & Cybersecurity Specialist
+I'm a Software Developer & Cybersecurity Specialist
 
 Junior Software Developer with a background in **Multiplatform Application Development**, focused on **Offensive Security (Red Team)**, **Artificial Intelligence**, and **Data Science**. 
 
