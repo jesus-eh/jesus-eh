@@ -1,13 +1,22 @@
 ![Logo](banne.png)
 
-# 👋 ¡Hola! Soy Jesús Escaño Herrero
+# 👋 ¡Hola! Soy Jesús Escaño Herrero, ¡Hi! I'm Jesús Escaño Herrero
 
-### 🎯 Software Developer | Cybersecurity & Data Science Enthusiast
+
+### 🎯 Software Developer | Cybersecurity specialist | Offensive security & AI Enthusiast | Python | Flutter
 
 
 ## 🧠 Sobre mí
 
 Soy un desarrollador recién graduado en Desarrollo de Aplicaciones Multiplataforma con una gran pasión por la **seguridad ofensiva (Red Team)** e **Inteligencia Artificial y Big Data (data science)**.  Enfocado en crecer profesionalmente en **ciberseguridad ofensiva** y complementarlo con **Data Science** para potenciar sus aplicaciones en la **ciberseguridad** y en **diversos sectores**, con el objetivo claro de aplicar mis conocimientos en los sectores de **Defensa** y **Aeroespacial**.
+
+## 🧠 About me
+
+Qualified in Multiplatform Application Development and Cybersecurity Specialist, currently working as a SAP
+ABAP Software Developer at T-Systems. I have previous experience in SAP and cybersecurity training, with a
+special interest in offensive security, vulnerability analysis, pentesting, and incident response. I am looking to
+continue developing my professional career in the field of cybersecurity, contributing my capacity for learning,
+problem-solving, and experience in technological environments.
 
 ---
 
