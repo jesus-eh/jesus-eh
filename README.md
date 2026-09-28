@@ -9,11 +9,11 @@
 
 ## 🧠 About me
 
-Qualified in Multiplatform Application Development and Cybersecurity Specialist, currently working as a SAP
-ABAP Software Developer at T-Systems. I have previous experience in SAP and cybersecurity training, with a
-special interest in offensive security, vulnerability analysis, pentesting, and incident response. I am looking to
-continue developing my professional career in the field of cybersecurity, contributing my capacity for learning,
-problem-solving, and experience in technological environments.
+# 👨‍💻 Hi, I'm a Software Developer & Cybersecurity Specialist
+
+Junior Software Developer with a background in **Multiplatform Application Development**, focused on **Offensive Security (Red Team)**, **Artificial Intelligence**, and **Data Science**. 
+
+Passionate about combining cybersecurity techniques with data-driven models, with a goal of applying these capabilities within the **Defense and Aerospace sectors**.
 
 ---
 
