@@ -1,6 +1,8 @@
 ![Logo](banne.png)
 
-# 👋 ¡Hola! Soy Jesús Escaño Herrero, ¡Hi! I'm Jesús Escaño Herrero
+# 👋 [ES] ¡Hola! Soy Jesús Escaño Herrero 
+
+# 👋 [EN] ¡Hi! I'm Jesús Escaño Herrero
 
 
 ### 🎯 Software Developer | Cybersecurity specialist | Offensive security & AI Enthusiast | Python | Flutter
