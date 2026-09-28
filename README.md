@@ -1,7 +1,7 @@
 ![Logo](banne.png)
 
 
-# 👋 [EN] ¡Hi! I'm Jesús Escaño Herrero
+# 👋 ¡Hi! I'm Jesús Escaño Herrero
 
 
 ### 🎯 Software Developer | Cybersecurity specialist | Offensive security & AI Enthusiast | Python | Flutter
@@ -17,13 +17,13 @@ problem-solving, and experience in technological environments.
 
 ---
 
-## 📊 Estadísticas de Lenguajes usado en mis proyectos
+## 📊 Statistics on languages ​​used in my projects
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesus-eh&layout=compact&theme=dark)
 
 ---
 
-## 💻 Tecnologías y Lenguajes
+## 💻 Technologies and Languages
 
 | Lenguaje      | Nivel           |
 |---------------|-----------------|
@@ -31,7 +31,7 @@ problem-solving, and experience in technological environments.
 | Flutter 💙    | Intermedio      |
 | C# ⚙️         | Intermedio      |
 
-### 🧰 Herramientas y Frameworks
+### 🧰 Tools and Frameworks
 
 - **Cybersecurity**: Nmap, Metasploit, Burp Suit (Basico)
 - **Data Science**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
@@ -41,7 +41,7 @@ problem-solving, and experience in technological environments.
 
 ---
 
-## 🚀 Áreas que me apasionan
+## 🚀 Areas that I am passionate about
 
 - 🛡️ Seguridad Ofensiva (Red Team / Purple Team)
 - ✈️ Defensa y Aeroespacial
@@ -52,7 +52,7 @@ problem-solving, and experience in technological environments.
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
 - 💼 LinkedIn: [linkedin.com/in/jesús-escaño-herrero](https://linkedin.com/in/jesús-escaño-herrero)
 - 📂 Portfolio: *Próximamente...*
