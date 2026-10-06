@@ -10,9 +10,6 @@
 <p><strong>● Building and sharing work in public</strong></p>
 <p><sub>Based in Málaga, Spain</sub></p>
 <p><a href="https://github.com/jesus-eh">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-</td>
 </table>
 </div>
 
