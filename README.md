@@ -12,7 +12,6 @@
 <p><a href="https://github.com/jesus-eh">GitHub</a></p>
 </td>
 <td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/91346627?u=71e1e72ca87f1549e681bc66d81d6ac58d9a5a74&amp;v=4" width="180" alt="Jesús Escaño Herrero GitHub avatar" />
 </td>
 </tr>
 </table>
