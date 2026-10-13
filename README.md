@@ -1,108 +1,165 @@
+<!--
+    JESUS-EH | GITHUB PROFILE
+    Development · Cybersecurity · Infrastructure
+-->
+
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · jesus-eh</sub></p>
-<h1>Jesús Escaño Herrero</h1>
-<h2>Backend or systems engineer</h2>
-<p>Software Developer | Cybersecurity specialist | Offensive security &amp; AI Enthusiast | Python | Flutter</p>
-<p><strong>● Building and sharing work in public</strong></p>
-<p><sub>Based in Málaga, Spain</sub></p>
-<p><a href="https://github.com/jesus-eh">GitHub</a></p>
-</table>
+# `root@jesus-eh:~$ whoami`
+
+### Jesús Escaño Herrero
+
+**Software Development · Cybersecurity · Infrastructure**
+
+*Building, securing and understanding systems — one project at a time.*
+
+*Desarrollando, protegiendo y comprendiendo sistemas, proyecto a proyecto.*
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-jesus--eh-181717?style=for-the-badge&logo=github)](https://github.com/jesus-eh)
+[![Python](https://img.shields.io/badge/Python-Projects-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/jesus-eh?tab=repositories)
+[![Security](https://img.shields.io/badge/Cybersecurity-Labs-00C853?style=for-the-badge&logo=kalilinux&logoColor=white)](https://github.com/jesus-eh?tab=repositories)
+
 </div>
 
-<h2>What teams can evaluate quickly</h2>
+---
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Backend or systems engineer · Python · Jupyter Notebook</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>7 repositories · 1 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>40 contributions · 16 active days</p></td>
-</tr>
-</table>
+## `01 // ABOUT_ME`
 
-<p><sub>Software Developer | Cybersecurity specialist | Offensive security &amp; AI Enthusiast | Python | Flutter</sub></p>
+```bash
+$ whoami
+Jesús Escaño Herrero
 
-<h2>Proof at a glance</h2>
+$ location
+Málaga, Spain
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>7</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>1</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>40</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>1</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
+$ interests
+software-development
+cybersecurity
+infrastructure-and-automation
+```
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=jesus-eh&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F91346627%3Fu%3D71e1e72ca87f1549e681bc66d81d6ac58d9a5a74%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=jesus-eh&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F91346627%3Fu%3D71e1e72ca87f1549e681bc66d81d6ac58d9a5a74%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Jesús Escaño Herrero GitHub proof metrics" />
-</picture>
-</p>
+**EN** — I'm a software developer interested in the intersection of software engineering, cybersecurity and infrastructure. I enjoy building practical tools, exploring how systems work, and learning by developing hands-on projects.
 
-<h2>Selected work</h2>
+**ES** — Soy desarrollador de software y me interesa la intersección entre la ingeniería de software, la ciberseguridad y la infraestructura. Disfruto creando herramientas prácticas, explorando cómo funcionan los sistemas y aprendiendo mediante proyectos reales.
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=jesus-eh&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F91346627%3Fu%3D71e1e72ca87f1549e681bc66d81d6ac58d9a5a74%26v%3D4&repos=jesus-eh%2FSentinelIT%2Cjesus-eh%2FIntrusion-Detection%2Cjesus-eh%2FPortScanner%2Cjesus-eh%2Fpredictive-maintenance-cmapss&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=jesus-eh&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F91346627%3Fu%3D71e1e72ca87f1549e681bc66d81d6ac58d9a5a74%26v%3D4&repos=jesus-eh%2FSentinelIT%2Cjesus-eh%2FIntrusion-Detection%2Cjesus-eh%2FPortScanner%2Cjesus-eh%2Fpredictive-maintenance-cmapss&v=recruiter-projects-1&mode=dark" width="100%" alt="Jesús Escaño Herrero selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/jesus-eh/SentinelIT">SentinelIT</a></h3>
-<p>A selected public project.</p>
-<p><sub>Python · ⭐ 1 · 🍴 0</sub></p>
-<p><a href="https://github.com/jesus-eh/SentinelIT">Read the repository →</a></p>
-</td>
-</tr>
-</table>
+```text
+[+] Build useful software
+[+] Explore and secure systems
+[+] Automate repetitive tasks
+[+] Learn by doing
+```
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/jesus-eh/Intrusion-Detection">Intrusion-Detection</a></h3><p>Real-Time Intrusion Detection</p><p><sub>Python · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/jesus-eh/PortScanner">PortScanner</a></h3><p>Programa de scaneo de puertos</p><p><sub>Open source · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/jesus-eh/predictive-maintenance-cmapss">predictive-maintenance-cmapss</a></h3><p>This project focuses on predicting the Remaining Useful Life (RUL) of aircraft engines using the NASA C-MAPSS dataset. The goal is to build an end-to-</p><p><sub>Jupyter Notebook · ⭐ 0</sub></p></td>
-</tr>
-</table>
+## `02 // TECH_STACK`
 
-<h2>Technical toolkit</h2>
+| Area / Área | Technologies / Tecnologías |
+|---|---|
+| Programming | Python · Flutter · Dart |
+| Security | Intrusion Detection · Network Scanning · Threat Intelligence |
+| Infrastructure | Proxmox VE · Docker · Wazuh · Tailscale |
+| Data & AI | Jupyter Notebook · Machine Learning |
+| Development | APIs · Scripting · Automation |
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=jesus-eh&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F91346627%3Fu%3D71e1e72ca87f1549e681bc66d81d6ac58d9a5a74%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=jesus-eh&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F91346627%3Fu%3D71e1e72ca87f1549e681bc66d81d6ac58d9a5a74%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Jesús Escaño Herrero technology stack" />
-</picture>
-</p>
+*Technologies and areas of interest represented by my public projects.*
 
-<table width="100%">
-<tr>
-<td width="50%" align="center"><strong>Python</strong><br /><sub>87% of public code</sub></td>
-<td width="50%" align="center"><strong>Jupyter Notebook</strong><br /><sub>13% of public code</sub></td>
-</tr>
-</table>
+## `03 // FEATURED_PROJECTS`
 
-<h2>Consistency signal</h2>
+### `01. SentinelIT` — Threat Intelligence
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=jesus-eh&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F91346627%3Fu%3D71e1e72ca87f1549e681bc66d81d6ac58d9a5a74%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=jesus-eh&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F91346627%3Fu%3D71e1e72ca87f1549e681bc66d81d6ac58d9a5a74%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Jesús Escaño Herrero contribution activity" />
-</picture>
-</p>
+**[→ View repository / Ver repositorio](https://github.com/jesus-eh/SentinelIT)**
 
-<hr />
+A threat intelligence platform under development, focused on collecting, validating, normalizing and managing Indicators of Compromise (IoCs).
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/jesus-eh">GitHub</a></td>
-</tr>
-</table>
+Plataforma de inteligencia de amenazas en desarrollo, centrada en recopilar, validar, normalizar y gestionar indicadores de compromiso (IoCs).
 
-<p align="center"><sub>Jesús Escaño Herrero · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy`
 
+### `02. Homelab — Private Cloud & Security Lab`
+
+**[→ View repository / Ver repositorio](https://github.com/jesus-eh/homelab-private-cloud-security-lab)**
+
+A self-hosted environment exploring virtualization, private cloud infrastructure, security monitoring and secure remote access.
+
+Entorno autogestionado para explorar la virtualización, la infraestructura de nube privada, la monitorización de seguridad y el acceso remoto seguro.
+
+`Proxmox VE` `Docker` `Wazuh` `Tailscale`
+
+### `03. Intrusion Detection`
+
+**[→ View repository / Ver repositorio](https://github.com/jesus-eh/Intrusion-Detection)**
+
+A project focused on real-time intrusion detection and network traffic analysis.
+
+Proyecto centrado en la detección de intrusiones en tiempo real y el análisis del tráfico de red.
+
+`Python` `Packet Capture` `Network Security`
+
+### `04. PortScanner`
+
+**[→ View repository / Ver repositorio](https://github.com/jesus-eh/PortScanner)**
+
+A Python-based port scanning project for exploring network services and understanding network exposure in authorized environments.
+
+Proyecto de escaneo de puertos con Python para explorar servicios de red y comprender la exposición de sistemas en entornos autorizados.
+
+`Python` `Networking` `Security`
+
+### `05. Predictive Maintenance — NASA C-MAPSS`
+
+**[→ View repository / Ver repositorio](https://github.com/jesus-eh/predictive-maintenance-cmapss)**
+
+A machine learning project focused on predicting the Remaining Useful Life (RUL) of aircraft engines using the NASA C-MAPSS dataset.
+
+Proyecto de machine learning orientado a predecir la vida útil restante (RUL) de motores aeronáuticos utilizando el conjunto de datos NASA C-MAPSS.
+
+`Jupyter Notebook` `Machine Learning` `Predictive Analytics`
+
+## `04 // MORE_PROJECTS`
+
+- **[Calculadora](https://github.com/jesus-eh/Calculadora)** — A terminal calculator built with Python / Calculadora de terminal desarrollada con Python.
+- **[ApiPythonTFG](https://github.com/jesus-eh/ApiPythonTFG)** — A Python API project / Proyecto de API con Python.
+
+## `05 // CURRENT_MINDSET`
+
+```python
+focus = [
+    "Clean and maintainable code",
+    "Secure-by-design thinking",
+    "Infrastructure and automation",
+    "Continuous learning",
+]
+
+for skill in focus:
+    practice(skill)
+    build_projects()
+    improve()
+```
+
+**EN** — I believe the best way to grow as a developer is to build, experiment, document and improve continuously.
+
+**ES** — Creo que la mejor forma de crecer como desarrollador es construir, experimentar, documentar y mejorar continuamente.
+
+## `06 // CONNECT`
+
+<div align="center">
+
+**Have an interesting project or idea? / ¿Tienes un proyecto o una idea interesante?**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github)](https://github.com/jesus-eh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-esca%C3%B1o-herrero/)
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+$ echo "Stay curious. Build things. Keep improving."
+Stay curious. Build things. Keep improving.
+```
+
+*Made with curiosity, code and a terminal.*
+
+</div>
