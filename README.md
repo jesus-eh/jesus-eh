@@ -1,7 +1,5 @@
  <div align="center">
 
-  <p><sub>ENGINEERING PROFILE · JESUS-EH · SYSTEM ONLINE</sub></p>
-
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=jesus-eh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F91346627%3Fu%3D16149ed45edf2ccd08a495411d8dbe8cdb187c61%26v%3D4&variant=living-identity&label=Jes%C3%BAs%20Esca%C3%B1o%20Herrero&v=wow-living-identity-1&mode=light" />
     <img src="https://www.gitskins.com/api/section/hero?username=jesus-eh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F91346627%3Fu%3D16149ed45edf2ccd08a495411d8dbe8cdb187c61%26v%3D4&variant=living-identity&label=Jes%C3%BAs%20Esca%C3%B1o%20Herrero&v=wow-living-identity-1&mode=dark" width="100%" alt="Jesús Escaño Herrero — engineering profile" />
